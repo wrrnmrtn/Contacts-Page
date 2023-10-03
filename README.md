@@ -9,14 +9,14 @@ Good Day! I used ReactJS to create a page for Contacts. Here's how to run the ap
 ```
 cd {location path of the project folder} (ex. cd C:/contacts-app)
 ```
-6. To make sure that the project is fully functioning, kindly install the following packages using node package manager in the project folder:
+5. To make sure that the project is fully functioning, kindly install the following packages using node package manager in the project folder:
 ```
 npm install axios
 npm install @mui/material
 npm install @mui/icons-material
 ```
-Note: Make sure you have NodeJS to execute these command lines in the command prompt, you can download it for free in https://nodejs.org/en/download
-8. Run the application in the command prompt using 
+Note: Make sure you have NodeJS to execute these command lines in the command prompt, you can download it for free in https://nodejs.org/en/download \
+6. Run the application in the command prompt using 
 ```
 npm start
 ```
