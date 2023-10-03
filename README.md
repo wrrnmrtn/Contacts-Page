@@ -16,6 +16,7 @@ npm install @mui/material
 npm install @mui/icons-material
 ```
 Note: Make sure you have NodeJS to execute these command lines in the command prompt, you can download it for free in https://nodejs.org/en/download \
+
 6. Run the application in the command prompt using 
 ```
 npm start
